@@ -75,7 +75,7 @@ h1 {
 
 .split.left {
   left: 0;
-  background: url('/media/hashira.jpg');
+  background: url(https://raw.githubusercontent.com/piyushhawq/Split-Landing-Page.github.io/main/media/hashira.jpg);
   background-repeat: no-repeat;
   background-size: cover;
 }
