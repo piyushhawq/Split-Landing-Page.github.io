@@ -90,7 +90,7 @@ h1 {
 
 .split.right {
   right: 0;
-  background: url('/media/demon.jpg');
+  background: url(https://raw.githubusercontent.com/piyushhawq/Split-Landing-Page.github.io/main/media/demon.jpg);
   background-repeat: no-repeat;
   background-size: cover;
 }
